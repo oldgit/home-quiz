@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# gh-pages
+_site/
+.sass-cache/
+
