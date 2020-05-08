@@ -18,9 +18,9 @@ email: "jon.harvey.uk@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   A site for at home quizzes to be shared with friends!
 # the subpath of your site, e.g. /blog
-baseurl: ""
+baseurl: "/home-quiz"
 # the base hostname & protocol for your site, e.g. http://example.com
-url: ""
+url: "https://oldgit.github.io"
 twitter_username: seasidejon
 github_username:  oldgit
 
