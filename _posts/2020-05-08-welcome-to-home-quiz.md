@@ -1,22 +1,67 @@
 ---
 layout: post
-title:  "Welcome to @Home Quiz!"
-date:   2020-05-08 17:39:28 +0000
-categories: jekyll update
+title:  "Welcome to @Home Quiz"
+date:   2020-05-08 23:15:28 +0000
+categories: welcome may
 ---
-You’ll find this post in your `_posts` directory. 
+The quiz consists of six rounds:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+1. News
+1. Science & Nature
+1. History & Literature
+1. TV & Film
+1. Sports
+1. Picture
 
-## Getting Started
+Each round has 10 questions - a main question, plus a bonus question
+Each question is worth a point.
 
-Jekyll also offers powerful support for code snippets:
+## News
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+1. What is
+1. Who was 
+1. Where
+1. When
+1. How
+
+
+## Science & Nature
+
+1. What is
+1. Who was 
+1. Where
+1. When
+1. How
+
+## History & Literature
+
+1. What is
+1. Who was 
+1. Where
+1. When
+1. How
+
+## TV & Film
+
+1. What is
+1. Who was 
+1. Where
+1. When
+1. How
+
+## Sports
+
+1. What is
+1. Who was 
+1. Where
+1. When
+1. How
+
+## Picture
+
+1. What is
+1. Who was 
+1. Where
+1. When
+1. How
 

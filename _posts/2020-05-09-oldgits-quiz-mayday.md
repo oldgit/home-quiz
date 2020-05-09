@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "Oldgits Quiz - MayDay MayDay"
-date:   2020-05-08 23:15:28 +0000
-categories: quiz oldgit may
+title:  "Oldgits Quiz Mayday"
+date:   2020-05-09 10:15:28 +0000
+categories: oldgit may
 ---
-The quiz consists of six categories:
+The quiz consists of six rounds:
 
-1. News Round
+1. News
 1. Science & Nature
 1. History & Literature
 1. TV & Film
 1. Sports
 1. Picture
 
-Each category has five questions.
+Each round has 10 questions - a main question, plus a bonus question
 Each question is worth a point.
 
-## News Round
+## News
 
 1. What is
 1. Who was 
