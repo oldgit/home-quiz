@@ -4,5 +4,5 @@ layout: home
 ---
 
 This is a website to host quiz questions and answers.
-For more details: [About](about/) 
+For more details see: [About](about/) 
 
