@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a website to host quiz questions and answers.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+A quiz is written as a file in [Markdown](https://guides.github.com/features/mastering-markdown/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The quiz markdown file is stored on github at: [https://github.com/oldgit/home-quiz/tree/master/\_posts](https://github.com/oldgit/home-quiz/tree/master/\_posts)
+ 
+The quiz filename is prefixed with the date, eg. `2020-05-09-oldgits-quiz-mayday.md`
 
-
-[jekyll-organization]: https://github.com/jekyll
