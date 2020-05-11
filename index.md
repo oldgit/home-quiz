@@ -3,8 +3,6 @@ list_title: "Quizzes"
 layout: home
 ---
 
-# Welcome to @Home Quiz
-
 This is a website to host quiz questions and answers.
 
 A quiz is written as a file in [Markdown](https://guides.github.com/features/mastering-markdown/).
