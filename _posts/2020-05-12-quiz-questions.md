@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "Quiz Picture & Sport Rounds"
-date:   2020-05-09 10:15:28 +0000
+date:   2020-05-12 16:10:28 +0000
 categories: oldgit may
 ---
 
 ## Picture
 
-1. What is
-1. Who was 
-1. Where
-1. When
-1. How
+Identify these logos:
+
+1 2 3 ![3-logos]({{site.baseurl}}/assets/images/2020-05-12-logos-a.jpg)
+
+4 5 6 7 8 ![5-logos]({{site.baseurl}}/assets/images/2020-05-12-logos-b.jpg)
 
 
 ## Sport
