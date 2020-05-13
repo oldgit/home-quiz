@@ -15,7 +15,3 @@ Files are stored in the github repository: [home-quiz](https://github.com/oldgit
 On a commit to this repository, [GitHub Pages](https://pages.github.com/) will 
 run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, 
 from the content in the Markdown files.
-
-The quiz markdown files are stored on github at: [https://github.com/oldgit/home-quiz/tree/master/\_posts](https://github.com/oldgit/home-quiz/tree/master/\_posts)
- 
-The quiz filename is prefixed with the date, eg. `2020-05-09-oldgits-quiz-mayday.md`
