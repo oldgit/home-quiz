@@ -10,7 +10,12 @@ The quizzes are listed by date on the [homepage](../).
 
 A quiz is written as a file in [Markdown](https://guides.github.com/features/mastering-markdown/).
 
-The quiz markdown file is stored on github at: [https://github.com/oldgit/home-quiz/tree/master/\_posts](https://github.com/oldgit/home-quiz/tree/master/\_posts)
+Files are stored in the github repository: [home-quiz](https://github.com/oldgit/home-quiz)
+
+On a commit to this repository, [GitHub Pages](https://pages.github.com/) will 
+run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, 
+from the content in the Markdown files.
+
+The quiz markdown files are stored on github at: [https://github.com/oldgit/home-quiz/tree/master/\_posts](https://github.com/oldgit/home-quiz/tree/master/\_posts)
  
 The quiz filename is prefixed with the date, eg. `2020-05-09-oldgits-quiz-mayday.md`
-

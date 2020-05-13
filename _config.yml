@@ -37,9 +37,9 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-readme-index
+  - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-titles-from-headings
-  - jekyll-relative-links
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
