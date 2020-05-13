@@ -15,15 +15,3 @@ The quiz consists of seven rounds:
 1. Picture
 
 Each round has 8 questions. Each question is worth a point.
-
-## Quiz Round owners
-
-### Quiz @20:30 12 May, 2020
-
-1. News - Dave
-1. Science & Nature - Richie
-1. History & Geography - Clive
-1. Geography - Clive
-1. TV & Film - James
-1. Sports - Jon
-1. Picture - Jon
