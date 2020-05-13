@@ -1,6 +1,6 @@
 ## Welcome to @Home Quiz
 
-This is a website to host quiz questions and answers.
+This is a website to host quiz questions and answers at: https://oldgit.github.io/home-quiz/
 
 Files are written in [Markdown](https://guides.github.com/features/mastering-markdown/). 
 
