@@ -39,7 +39,6 @@ Identify these logos:
 1. Who in 1985 won the Snooker World Championship with over 18 million viewers watching live well past midnight? 
 1. How many Formula 1 World Drivers championships did Jackie Stewart win? Hint: matches Ayrton Senna.
 
-
 <button class="answer-button">Show Answers</button>
 <div class="hide" markdown="1">
 1. Roger Federer - 8 times.
