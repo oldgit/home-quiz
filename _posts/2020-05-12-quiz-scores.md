@@ -2,12 +2,12 @@
 layout: post
 title:  "May 12 Quiz Scores"
 date:   2020-05-12 21:00:28 +0000
-categories: oldgit may
+tags:   oldgit
 ---
 
 1. 72% (29/40) Clive & Debs
-2. 56% (27/48) James Migue 
-3. 55% (31/56) James Towers
+2. 56% (27/48) James M 
+3. 55% (31/56) James T
 4. 52% (25/48) Dave & Gill
 5. 45% (18/40) Jon
 6. 31% (15/48) Richie

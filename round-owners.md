@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Quiz Round Owners"
-date:   2020-05-12 10:15:28 +0000
-categories: oldgit may
+layout: page
+title:  "Round-Owners"
+permalink: /round-owners/
 ---
 
 # Quiz @20:30 19 May, 2020

@@ -2,7 +2,7 @@
 layout: post
 title:  "May 12 Quiz Picture & Sport Rounds"
 date:   2020-05-12 20:30:28 +0000
-categories: oldgit may
+tags:   oldgit
 ---
 
 ## Picture

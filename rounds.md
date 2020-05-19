@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "May Quiz format"
+layout: page
+title:  "Rounds"
 date:   2020-05-09 10:15:28 +0000
-categories: oldgit may
+permalink: /rounds/
 ---
+
 The quiz consists of seven rounds:
 
 1. News

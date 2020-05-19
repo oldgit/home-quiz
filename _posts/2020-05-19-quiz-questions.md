@@ -2,7 +2,7 @@
 layout: post
 title:  "May 19 Quiz Picture Round"
 date:   2020-05-19 10:30:08 +0000
-categories: oldgit may
+tags:   oldgit
 published: false 
 ---
 
