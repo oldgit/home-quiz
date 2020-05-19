@@ -4,7 +4,7 @@ title:  "Round-Owners"
 permalink: /round-owners/
 ---
 
-# Quiz @20:30 19 May, 2020
+# Quiz @20:30 Thursday, 21 May, 2020
 
 | \# | Round            | Owner   |           
 |----|------------------|---------|           
@@ -16,7 +16,7 @@ permalink: /round-owners/
 | 6  | Sports           | James M |
 | 7  | Picture          | Jon     |
 
-# Quiz @20:30 12 May, 2020
+# Quiz @20:30 Tuesday, 12 May, 2020
 
 | \# | Round            | Owner   |           
 |----|------------------|---------|           
@@ -27,3 +27,4 @@ permalink: /round-owners/
 | 5  | TV & Film        | James   |
 | 6  | Sports           | Jon     |
 | 7  | Picture          | Jon     |
+
