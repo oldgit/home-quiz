@@ -9,12 +9,12 @@ categories: oldgit may
 
 | \# | Round            | Owner   |           
 |----|------------------|---------|           
-| 1  | News             | ????    |
+| 1  | News             | Jon     |
 | 2  | Science & Nature | James M |
-| 3  | History          | ????    |
+| 3  | History          | Dave    |
 | 4  | Geography        | Richie  |
 | 5  | TV & Film        | Clive   |
-| 6  | Sports           | ????    |
+| 6  | Sports           | James M |
 | 7  | Picture          | Jon     |
 
 # Quiz @20:30 12 May, 2020
