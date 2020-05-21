@@ -4,6 +4,19 @@ title:  "Round-Owners"
 permalink: /round-owners/
 ---
 
+# Quiz @20:45 Thursday, 28 May, 2020
+
+| \# | Round            | Owner   |           
+|----|------------------|---------|           
+| 1  | News             | ????    |
+| 2  | Science & Nature | Clive   |
+| 3  | History          | Ivan    |
+| 4  | Geography        | Dave    |
+| 5  | TV & Film        | ????    |
+| 6  | Sports           | ????    |
+| 7  | Picture          | Dave    |
+
+
 # Quiz @20:30 Thursday, 21 May, 2020
 
 | \# | Round            | Owner   |           
@@ -15,6 +28,7 @@ permalink: /round-owners/
 | 5  | TV & Film        | Clive   |
 | 6  | Sports           | James M |
 | 7  | Picture          | Jon     |
+
 
 # Quiz @20:30 Tuesday, 12 May, 2020
 
