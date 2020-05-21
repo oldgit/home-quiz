@@ -1,10 +1,43 @@
 ---
 layout: post
-title:  "May 19 Quiz Picture Round"
-date:   2020-05-19 10:30:08 +0000
+title:  "May 21 Quiz News & Picture Round"
+date:   2020-05-21 10:10:08 +0000
 tags:   oldgit
-published: false 
+published: true 
 ---
+
+## News
+
+1. Who announced this sad 'ending of freedom' on Twitter this week?
+   ![End of Freedom](https://pbs.twimg.com/media/EYUNxVjWAAAuj-p?format=jpg&name=small)
+
+2. What's the name of the drug President Trump is now taking despite warnings it might be unsafe? 
+
+3. Which country has reclosed beaches after "unacceptable behaviour" over the weekend?
+
+4. Which airline will resume some flights from the UK on June 15th? 
+
+5. Which European country announced this week it will be open for tourists this summer?
+
+6. In Brighton, the council came under criticism for this mistake, what should it be?
+   ![Brighton](https://ichef.bbci.co.uk/live-experience/cps/320/cpsprodpb/vivo/live/images/2020/5/20/08f660dc-2c50-4eb8-b76a-f63467f1324d.jpg)
+
+7. How many birthday cards did Captain Tom Moore receive for his 100th?
+
+8. How many millions of pounds has Captain Tom raised for NHS charities?  
+
+<button class="answer-button">Show Answers</button>
+<div class="hide" markdown="1">
+1. Priti Patel
+2. Hydroxychloroquine
+3. France - Brittany
+4. EasyJet
+5. Greece
+6. Hove, actually.
+7. 140,000
+8. 38.9
+
+</div>
 
 ## Picture
 
