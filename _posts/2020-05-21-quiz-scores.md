@@ -6,7 +6,7 @@ tags:   oldgit
 ---
 
 1. 54% (26/48) Clive & Debs
-2. 40% (16/40) James M 
+2. 40% (16/40) James M
 3. 35% (17/48) Dave & Gill
 4. 35% (14/40) Jon
 5. 33% (16/48) Ivan & Natalie

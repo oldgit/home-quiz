@@ -3,7 +3,7 @@ layout: post
 title:  "May 21 Quiz News & Picture Round"
 date:   2020-05-21 10:10:08 +0000
 tags:   oldgit
-published: true 
+published: true
 ---
 
 ## News
@@ -11,11 +11,11 @@ published: true
 1. Who announced this sad 'ending of freedom' on Twitter this week?
    ![End of Freedom](https://pbs.twimg.com/media/EYUNxVjWAAAuj-p?format=jpg&name=small)
 
-2. What's the name of the drug President Trump is now taking despite warnings it might be unsafe? 
+2. What's the name of the drug President Trump is now taking despite warnings it might be unsafe?
 
 3. Which country has reclosed beaches after "unacceptable behaviour" over the weekend?
 
-4. Which airline will resume some flights from the UK on June 15th? 
+4. Which airline will resume some flights from the UK on June 15th?
 
 5. Which European country announced this week it will be open for tourists this summer?
 
@@ -24,7 +24,7 @@ published: true
 
 7. How many birthday cards did Captain Tom Moore receive for his 100th?
 
-8. How many millions of pounds has Captain Tom raised for NHS charities?  
+8. How many millions of pounds has Captain Tom raised for NHS charities?
 
 <button class="answer-button">Show Answers</button>
 <div class="hide" markdown="1">
