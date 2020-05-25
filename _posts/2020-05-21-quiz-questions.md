@@ -36,7 +36,6 @@ published: true
 6. Hove, actually.
 7. 140,000
 8. 38.9
-
 </div>
 
 ## Picture
