@@ -16,7 +16,7 @@ published: true
 
     ![BBC image](https://ichef.bbci.co.uk/news/660/cpsprodpb/711A/production/_112545982_bdf6a404-958c-41f0-8312-678010cabee3.jpg)
 
-3. Nicola Sturgeon confirmed Scots can meets friends and family outside from when?
+3. Nicola Sturgeon confirmed Scots can meet friends and family outside from when?
 
     ![BBC image](https://ichef.bbci.co.uk/images/ic/1024x576/p08d94g3.jpg)
 
