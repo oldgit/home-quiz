@@ -9,5 +9,5 @@ For more details see: [About](about/)
 - Next quiz scheduled @20:45 Thursday, 28 May, 2020
 - [Rounds](rounds/)
 - [Round-Owners](round-owners/)
-- Zoom invite is in WhatsApp group: **Home pub quiz**
+- Google [Meet](https://meet.google.com/) details are in WhatsApp group: **Home pub quiz**
 
