@@ -11,7 +11,7 @@ permalink: /round-owners/
 | 1  | News             | Jon     |
 | 2  | Science & Nature | Clive   |
 | 3  | History          | Ivan    |
-| 4  | Geography        | Dave    |
+| 4  | Geography        | James M |
 | 5  | TV & Film        | Dave    |
 | 6  | Sports           | Jon     |
 | 7  | Picture          | Dave    |
