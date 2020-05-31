@@ -44,7 +44,6 @@ After this, you write your quiz in [Markdown](https://help.github.com/en/github/
 Here's a Sport heading and a list of questions:
 
 ```
-
 ## Sport
 
 1. Who has won the most Wimbledon Mens singles tennis Championships? (Open era since 1968)
