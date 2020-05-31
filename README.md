@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/oldgit/home-quiz/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-The quiz questions, answers and scores are all considered Jekyll [posts](https://jekyllrb.com/docs/posts/) and are stored as markdown files with a date prefix, eg. '2020-05-12' and a '.md' suffix in the directory: [\_posts](\_posts/)
+The quiz questions and scores are all considered Jekyll [posts](https://jekyllrb.com/docs/posts/) and are stored as markdown files with a date prefix, eg. '2020-05-12' and a '.md' suffix in the directory: [\_posts](\_posts/)
 
 * [How to create a quiz page](#how-to-create-a-quiz-page)
 * [How to create a quiz scores page](#how-to-create-a-quiz-scores-page)
