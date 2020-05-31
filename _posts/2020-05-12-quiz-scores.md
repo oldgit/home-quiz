@@ -1,26 +1,13 @@
 ---
-layout: post
+layout: scores
 title:  "May 12 Quiz Scores"
 date:   2020-05-12 21:00:28 +0000
 tags:   oldgit
 ---
-
-1. 72% (29/40) Clive & Debs
-2. 56% (27/48) James M 
-3. 55% (31/56) James T
-4. 52% (25/48) Dave & Gill
-5. 45% (18/40) Jon
-6. 31% (15/48) Richie
-
-Team           | C&D      | _ | JT      | _ | JM      | _ | D&G     | _ | RS      | _ | JH      | _ |
----------------|----------|---|---------|---|---------|---|---------|---|---------|---|---------|---|
-Sport & Logos  | 13  | **13** | 14 | **14** | 12 | **12** | 11 | **11** |  3 |  **3** |  0 |  **0** |
-History        |  0  | **13** |  4 | **18** |  3 | **15** |  1 | **12** |  3 |  **6** |  2 |  **2** |
-Geography      |  0  | **13** |  3 | **21** |  3 | **18** |  4 | **16** |  1 |  **7** |  3 |  **5** |
-News           |  6  | **19** |  2 | **23** |  3 | **21** |  0 | **16** |  4 | **11** |  4 |  **9** |
-Film & TV      |  7  | **26** |  4 | **27** |  0 | **21** |  4 | **20** |  4 | **15** |  5 | **14** |
-Science/Nature |  3  | **29** |  4 | **31** |  6 | **27** |  5 | **25** |  0 | **15** |  4 | **18** |
-**Total**      | 40  | **29** | 56 | **31** | 48 | **27** | 48 | **25** | 48 | **15** | 40 | **18** |
-**Percentage** |     | **72** |    | **55** |    | **56** |    | **52** |    | **31** |    | **45** |
-**Position**   |  1  |        |  3 |        |  2 |        |  4 |        |  6 |        |  5 |        |
-
+<!-- This page remains empty and is generated automatically using the scores csv file. -->
+<!-- Ensure that a scores csv file exists in the _data/scores directory. -->
+<!-- The score csv file must be named based on the date: value above -->
+<!-- The score csv filename format is: "d%Y-%m-%d-T%H%M.csv" -->
+<!-- So for this page's date: "2020-05-12 21:00:28 +0000", -->
+<!--     the csv filename is: d2020-05-12-T2100.csv -->
+<!-- FullPath:   _data/scores/d2020-05-12-T2100.csv -->

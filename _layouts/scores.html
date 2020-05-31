@@ -2,7 +2,7 @@
 layout: post
 ---
 
-{% assign dateFormat = page.date | date: "%Y_%m_%d_T%H%M" %}
+{% assign dateFormat = page.date | date: "%Y-%m-%d-T%H%M" %}
 {% assign csv = "d" | append:dateFormat %}
 {% assign p10_list = "" %}
 {% for row in site.data.scores[csv] %}
