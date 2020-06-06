@@ -13,7 +13,7 @@ permalink: /round-owners/
 | 3  | History          | ????    |
 | 4  | Geography        | ????    |
 | 5  | TV & Film        | ????    |
-| 6  | Sports           | ????    |
+| 6  | Sports           | Jon     |
 | 7  | Picture          | Clive   |
 
 # Quiz @20:45 Thursday, 28 May, 2020
