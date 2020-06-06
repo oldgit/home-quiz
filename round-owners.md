@@ -9,10 +9,10 @@ permalink: /round-owners/
 | \# | Round            | Owner   |
 |----|------------------|---------|
 | 1  | News             | Jon     |
-| 2  | Science & Nature | ????    |
-| 3  | History          | ????    |
-| 4  | Geography        | ????    |
-| 5  | TV & Film        | ????    |
+| 2  | Science & Nature | James M |
+| 3  | History          | James M |
+| 4  | Geography        | Dave    |
+| 5  | TV & Film        | Jim G   |
 | 6  | Sports           | Jon     |
 | 7  | Picture          | Clive   |
 
