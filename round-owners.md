@@ -4,6 +4,18 @@ title:  "Round-Owners"
 permalink: /round-owners/
 ---
 
+# Quiz @20:45 Monday, 8 June, 2020
+
+| \# | Round            | Owner   |
+|----|------------------|---------|
+| 1  | News             | Jon     |
+| 2  | Science & Nature | ????    |
+| 3  | History          | ????    |
+| 4  | Geography        | ????    |
+| 5  | TV & Film        | ????    |
+| 6  | Sports           | ????    |
+| 7  | Picture          | Clive   |
+
 # Quiz @20:45 Thursday, 28 May, 2020
 
 | \# | Round            | Owner   |
