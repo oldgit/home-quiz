@@ -3,7 +3,7 @@ layout: post
 title:  "June 8 Quiz News & Sport Round"
 date:   2020-06-08 10:10:08 +0000
 tags:   oldgit
-published: false
+published: true
 ---
 
 ## News (10 Points)
