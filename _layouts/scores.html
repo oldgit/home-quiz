@@ -20,7 +20,7 @@ layout: post
         {% assign mean_p10 = total_percent10 | divided_by:rounds  %}
         {% assign team = p %}
       {% else %}
-        {% if p > "0" %}
+        {% if p >= "0" %}
           {% assign rounds = rounds | plus:1 %}
           {% assign total_percent10 = total_percent10 | plus:p %}
         {% endif %}
