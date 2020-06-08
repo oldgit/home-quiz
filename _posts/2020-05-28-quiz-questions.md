@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "May 28 Quiz News & Sports Round"
+title:  "May 28 Quiz News & Sport Round"
 date:   2020-05-28 10:10:08 +0000
 tags:   oldgit
 published: true
@@ -52,7 +52,7 @@ published: true
 8. Cumbria Police. 
 </div>
 
-## Sports
+## Sport
 
 1. In Curling, how many sweepers can influence the path of a thrown 'stone' ?
 
