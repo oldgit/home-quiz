@@ -1,42 +1,42 @@
 ---
 layout: post
-title:  "June 8 Quiz News & Sports Round"
+title:  "June 8 Quiz News & Sport Round"
 date:   2020-06-08 10:10:08 +0000
 tags:   oldgit
 published: false
 ---
 
-## News
+## News (10 Points)
 
-1. A statue of who was toppled and thrown in Bristol harbour on sunday?
+1. A statue of who was toppled and thrown in Bristol harbour on sunday? (1 Point)
 
     ![BBC image](https://ichef.bbci.co.uk/news/490/cpsprodpb/A9E7/production/_112759434_mediaitem112759433.jpg)
 
 2. From today the UK's travel quarantine kicks in but does not apply for travellers from within the Common Travel Area.
- Name the three places in the Common Travel Area(CTA).
+ Name the three places in the Common Travel Area(CTA). (3 Points)
 
     ![BBC image](https://ichef.bbci.co.uk/news/660/cpsprodpb/171FB/production/_112551749_mediaitem112551747.jpg)
 
-3. On sunday, Scots had 'one piece of positive news' regarding Covid-19. What was it?
+3. On sunday, Scots had 'one piece of positive news' regarding Covid-19. What was it? (1 Point)
 
     ![BBC image](https://ichef.bbci.co.uk/news/660/cpsprodpb/1446F/production/_112755038_thanyoupa.jpg)
 
-4. In the US, which city council has pledged to dismantle the local police department?
+4. In the US, which city council has pledged to dismantle the local police department? (1 Point)
 
     ![BBC image](https://ichef.bbci.co.uk/news/660/cpsprodpb/14D9E/production/_112760458_0a75926d-72cb-4ede-8197-26780f26a837.jpg)
 
 5. Why did NZ Prime Minister, Jacinda Ardern, do "a little dance" today
- and say to the country: "So can I finish with a very simple, 'Thank you, New Zealand'"?
+ and say to the country: "So can I finish with a very simple, 'Thank you, New Zealand'"? (1 Point)
 
     ![BBC image](https://ichef.bbci.co.uk/news/240/cpsprodpb/10622/production/_112760176_gettyimages-1248074439.jpg)
 
-6. On what day will it be compulsory to wear a face mask on public transport in England?
+6. On what day will it be compulsory to wear a face mask on public transport in England? (1 Point)
 
     ![BBC image](https://ichef.bbci.co.uk/news/660/cpsprodpb/171FB/production/_112551749_mediaitem112551747.jpg)
 
-7. Last week, what happened to eight homes in the Norwegian town of Alta?
+7. Last week, what happened to eight homes in the Norwegian town of Alta? (1 Point)
 
-8. Why was the International Space Station in the news on the 31st May?
+8. Why was the International Space Station in the news on the 31st May? (1 Point)
 
     ![Wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/International_Space_Station_after_undocking_of_STS-132.jpg/300px-International_Space_Station_after_undocking_of_STS-132.jpg)
 
@@ -56,30 +56,33 @@ published: false
 
 </div>
 
-## Sports
+## Sport (15 Points)
 
-1. In theory this summer should have an Olympics - who is the host city? Bonus: When will this delayed Olympics occur?
+1. In theory this summer should have an Olympics - who is the host city?
+ Bonus: When will this delayed Olympics occur? (2 Points)
 
     ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/500px-Olympic_rings_without_rims.svg.png)
 
-2. Name the city which hosted the Summer Olympics in 2012 and the city in 2016?
+2. Name the city which hosted the Summer Olympics in 2012 and the city in 2016? (2 Points)
 
-3. Usain Bolt has won golds at the Olympic Games in 2008, 2012 and 2016. Give how many gold medals for each year.
+3. Usain Bolt has won golds at the Olympic Games in 2008, 2012 and 2016.
+ Give how many gold medals for each year. (3 Points)
 
     ![BBC image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bolt_se_aposenta_com_medalha_de_ouro_no_4_x_100_metros_1039118-19.08.2016_frz-9565_%28cropped%29.jpg/235px-Bolt_se_aposenta_com_medalha_de_ouro_no_4_x_100_metros_1039118-19.08.2016_frz-9565_%28cropped%29.jpg)
 
-4. Who was the iconic figure who left the Test Match Special commentary box for the last time in Sept 2017?
+4. Who was the iconic figure who left the Test Match Special commentary box for the last time in Sept 2017? (1 Point)
 
     ![BBC image](https://ichef.bbci.co.uk/onesport/cps/320/cpsprodpb/7F97/production/_112736623_overseasindex.jpg)
 
 5. Name the former England batsman who announced this month that he has left Test Match Special after 14 years?
+ (1 Point)
 
     ![BBC image](https://ichef.bbci.co.uk/onesport/cps/320/cpsprodpb/7F97/production/_112736623_overseasindex.jpg)
 
-6. The first two Premier League fixtures are on Wed, 17 June. Name all 4 teams, a point for each.
+6. The first two Premier League fixtures are on Wed, 17 June. Name all 4 teams, a point for each. (4 Points)
 
 7. Vinnie Jones famously grabbed Gazza by the crotch when Wimbledon played Newcastle in February 1988.
- But what did Gazza send Vinnie after the game, in response to the incident?
+ But what did Gazza send Vinnie after the game, in response to the incident? (1 Point)
     - A red rose
     - His jock strap
     - A signed photo of himself
@@ -88,7 +91,7 @@ published: false
 
 8. Gazza became England's darling when he cried after a semi-final booking meant he
  would have missed the 1990 World Cup final. But which West Germany player did he foul
- to receive that yellow card?
+ to receive that yellow card? (1 Point)
     - Olaf Thon
     - Thomas Berthold
     - Andreas Brehme
