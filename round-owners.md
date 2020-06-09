@@ -10,10 +10,10 @@ permalink: /round-owners/
 |----|------------------|---------|
 | 1  | News             | Jon     |
 | 2  | Science & Nature | ????    |
-| 3  | History          | ????    |
-| 4  | Geography        | ????    |
+| 3  | History          | Ivan    |
+| 4  | Geography        | Clive   |
 | 5  | TV & Film        | ????    |
-| 6  | Sports           | ????    |
+| 6  | Sports           | Clive   |
 | 7  | Picture          | Dave    |
 
 # Quiz @20:45 Monday, 8 June, 2020
