@@ -1,8 +1,8 @@
 Team,News,Sport,Geography,Science,History,TV/Film,Picture
-maxpoints,8,8,12,8,12,8,8
-Clive,3,-1,-1,0,0,0,0
-Jon,-1,4,6,0,0,0,0
-James,4,5,9,-1,0,0,0
+maxpoints,8,8,12,8,12,13,8
+Clive,3,-1,-1,0,0,11,0
+Jon,-1,4,6,0,0,4,0
+James,4,5,9,-1,0,5,0
 D&G,7,2,7,0,0,0,-1
-I&N,3,3,10,0,-1,0,0
+I&N,3,3,10,0,-1,1,0
 Jim,3,6,7,0,0,-1,0
