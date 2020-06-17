@@ -7,10 +7,10 @@ permalink: /rounds/
 
 The quiz consists of seven rounds:
 
-1. News
+1. Food & Drink
 1. Science & Nature
 1. History
-1. Geography
+1. General Knowledge
 1. TV & Film
 1. Sports
 1. Picture
