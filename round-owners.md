@@ -4,6 +4,19 @@ title:  "Round-Owners"
 permalink: /round-owners/
 ---
 
+# Quiz @20:45 Monday, 22 June, 2020
+
+| \# | Round             | Owner   |
+|----|-------------------|---------|
+| 1  | Food & Drink      | ????    |
+| 2  | Science & Nature  | ????    |
+| 3  | History           | ????    |
+| 4  | General Knowledge | ????    |
+| 5  | TV & Film         | ????    |
+| 6  | Sports            | ????    |
+| 7  | Picture           | ????    |
+
+
 # Quiz @20:45 Monday, 15 June, 2020
 
 | \# | Round            | Owner   |
