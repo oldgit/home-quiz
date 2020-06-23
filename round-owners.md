@@ -4,7 +4,7 @@ title:  "Round-Owners"
 permalink: /round-owners/
 ---
 
-# Quiz @20:45 Monday, 22 June, 2020
+# Quiz @20:45 Monday, 29 June, 2020
 
 | \# | Round             | Owner   |
 |----|-------------------|---------|
