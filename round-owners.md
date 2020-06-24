@@ -8,13 +8,13 @@ permalink: /round-owners/
 
 | \# | Round             | Owner   |
 |----|-------------------|---------|
-| 1  | Food & Drink      | ????    |
-| 2  | Science & Nature  | ????    |
+| 1  | Food & Drink      | Jon     |
+| 2  | Science & Nature  | James   |
 | 3  | History           | ????    |
-| 4  | General Knowledge | ????    |
-| 5  | TV & Film         | ????    |
+| 4  | General Knowledge | Dave    |
+| 5  | TV & Film         | Jim G   |
 | 6  | Sports            | ????    |
-| 7  | Picture           | ????    |
+| 7  | Picture           | Dave    |
 
 
 # Quiz @20:45 Monday, 15 June, 2020
