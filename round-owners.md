@@ -10,10 +10,10 @@ permalink: /round-owners/
 |----|-------------------|---------|
 | 1  | Food & Drink      | Jon     |
 | 2  | Science & Nature  | James   |
-| 3  | History           | ????    |
+| 3  | History           | Ivan    |
 | 4  | General Knowledge | Dave    |
 | 5  | TV & Film         | Jim G   |
-| 6  | Sports            | ????    |
+| 6  | Sports            | James   |
 | 7  | Picture           | Dave    |
 
 
