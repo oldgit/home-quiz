@@ -3,7 +3,7 @@ layout: post
 title:  "June 29 Quiz Food & Drink Round"
 date:   2020-06-29 10:10:08 +0000
 tags:   oldgit
-published: false
+published: true
 ---
 
 ## Food & Drink (15 Points)
