@@ -3,7 +3,8 @@ layout: page
 title:  "Round-Owners"
 permalink: /round-owners/
 ---
-# Quiz @20:45 Monday, 6 July, 2020
+
+## Quiz @20:45 Monday, 6 July, 2020
 
 | \# | Round             | Owner   |
 |----|-------------------|---------|
@@ -15,7 +16,7 @@ permalink: /round-owners/
 | 6  | Sports            | Dave    |
 | 7  | Picture           | Dave    |
 
-# Quiz @20:45 Monday, 29 June, 2020
+## Quiz @20:45 Monday, 29 June, 2020
 
 | \# | Round             | Owner   |
 |----|-------------------|---------|
@@ -27,7 +28,7 @@ permalink: /round-owners/
 | 6  | Sports            | James   |
 | 7  | Picture           | Dave    |
 
-# Quiz @20:45 Monday, 15 June, 2020
+## Quiz @20:45 Monday, 15 June, 2020
 
 | \# | Round            | Owner   |
 |----|------------------|---------|
@@ -39,7 +40,7 @@ permalink: /round-owners/
 | 6  | Sports           | Clive   |
 | 7  | Picture          | Dave    |
 
-# Quiz @20:45 Monday, 8 June, 2020
+## Quiz @20:45 Monday, 8 June, 2020
 
 | \# | Round            | Owner   |
 |----|------------------|---------|
@@ -51,7 +52,7 @@ permalink: /round-owners/
 | 6  | Sports           | Jon     |
 | 7  | Picture          | Clive   |
 
-# Quiz @20:45 Thursday, 28 May, 2020
+## Quiz @20:45 Thursday, 28 May, 2020
 
 | \# | Round            | Owner   |
 |----|------------------|---------|
@@ -63,8 +64,7 @@ permalink: /round-owners/
 | 6  | Sports           | Jon     |
 | 7  | Picture          | James T |
 
-
-# Quiz @20:30 Thursday, 21 May, 2020
+## Quiz @20:30 Thursday, 21 May, 2020
 
 | \# | Round            | Owner   |
 |----|------------------|---------|
@@ -76,8 +76,7 @@ permalink: /round-owners/
 | 6  | Sports           | James M |
 | 7  | Picture          | Jon     |
 
-
-# Quiz @20:30 Tuesday, 12 May, 2020
+## Quiz @20:30 Tuesday, 12 May, 2020
 
 | \# | Round            | Owner   |
 |----|------------------|---------|
@@ -87,5 +86,3 @@ permalink: /round-owners/
 | 4  | Geography        | Clive   |
 | 5  | TV & Film        | James   |
 | 6  | Sports           | Jon     |
-| 7  | Picture          | Jon     |
-

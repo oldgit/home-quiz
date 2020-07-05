@@ -4,11 +4,15 @@ This is a website to host quiz questions and answers at: <https://oldgit.github.
 
 Files are written in [Markdown](https://guides.github.com/features/mastering-markdown/).
 
-You can use the [editor on GitHub](https://github.com/oldgit/home-quiz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/oldgit/home-quiz/edit/master/README.md)
+to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/)
+to rebuild the pages in your site, from the content in your Markdown files.
 
-The quiz questions and scores are all considered Jekyll [posts](https://jekyllrb.com/docs/posts/) and are stored as markdown files with a date prefix, eg. '2020-05-12' and a '.md' suffix in the directory: [\_posts](\_posts/)
+The quiz questions and scores are all considered Jekyll [posts](https://jekyllrb.com/docs/posts/)
+and are stored as markdown files with a date prefix, eg. '2020-05-12' and a '.md' suffix in the
+directory: [\_posts](\_posts/)
 
 * [How to create a quiz page](#how-to-create-a-quiz-page)
 * [How to create a quiz scores page](#how-to-create-a-quiz-scores-page)
@@ -21,7 +25,7 @@ For example: `_posts/2020-05-12-quiz-questions.md`
 
 The quiz file starts with Jekyll [front matter](https://jekyllrb.com/docs/front-matter/):
 
-```
+```yaml
 ---
 layout: post
 title:  "May 12 Quiz Sport Round"
@@ -30,14 +34,14 @@ tags:   oldgit
 ---
 ```
 
-The start and end of front matter are marked with 3 dashes: `---`. The layout is `post`. 
+The start and end of front matter are marked with 3 dashes: `---`. The layout is `post`.
 You'll need a title and date and optionally you can add any tags.
 
 After this, you write your quiz in [Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
 
 Here's a Sport heading and a list of questions:
 
-```
+```text
 ## Sport
 
 1. Who has won the most Wimbledon Mens singles tennis Championships? (Open era since 1968)
@@ -53,19 +57,19 @@ Here's a Sport heading and a list of questions:
 1. How many Formula 1 World Drivers championships did Jackie Stewart win? Hint: matches Ayrton Senna.
 ```
 
-For the answers, a pinch of HTML is used to give you a `Show Answers` button by declaring a button 
+For the answers, a pinch of HTML is used to give you a `Show Answers` button by declaring a button
 and wrapping your answer Markdown list in a `<div>`:
 
-```
+```html
 <button class="answer-button">Show Answers</button>
 <div class="hide" markdown="1">
 1. Roger Federer - 8 times.
 1. Martina Navratilova - 9 times.
 1. Lionel Messi, Cristiano Ronaldo.
 1. In football name the teams that have won the FA Cup:
-    - Arsenal (13)
-    - Manchester United (12)
-    - Chelsea (8)
+   - Arsenal (13)
+   - Manchester United (12)
+   - Chelsea (8)
 1. In field hockey, 11 players for a single team.
 1. In a professional game of darts your starting score is 501.
 1. Dennis Taylor in 1985 won the Snooker World Championship.
@@ -85,7 +89,7 @@ For example: `_posts/2020-05-12-quiz-scores.md`
 
 A complete example scores file also starts with Jekyll [front matter](https://jekyllrb.com/docs/front-matter/):
 
-```
+```yaml
 ---
 layout: scores
 title:  "May 12 Quiz Scores"
@@ -103,7 +107,7 @@ tags:   oldgit
 
 **Note:** The layout is `scores` (not post). You'll need a title and date and optionally you can add any tags.
 
-As stated above, this file remains empty of any Markdown. 
+As stated above, this file remains empty of any Markdown.
 The quiz scores page is generated automatically from a scores csv data file.
 
 A scores csv data file must exist in the directory: `_data/scores`.
@@ -114,7 +118,7 @@ So for this example page's date: `2020-05-12 21:00:28 +0000`, the csv filename i
 
 The example scores csv file is as follows:
 
-```
+```text
 Team,Sport,Picture,History,Geography,News,Film/TV,Science
 maxpoints,8,8,8,8,8,8,8
 C&D,6,7,-1,-1,6,7,3
@@ -134,4 +138,3 @@ Each subsequent row represents a team in the quiz. The first column is the team'
 If a column's value is `-1`, then the team are quiz master for that round and so score no points.
 
 For the example scores csv file above, here's the published scores: [oldgit.github.io/home-quiz/2020/05/12/quiz-scores.html](https://oldgit.github.io/home-quiz/2020/05/12/quiz-scores.html)
-
