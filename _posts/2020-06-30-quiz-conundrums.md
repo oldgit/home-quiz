@@ -20,12 +20,12 @@ Find the single word by rearranging the letters shown (anagram).
 1. hymnbook
 2. misheard
 3. ambushed
-4. bounders
+4. rebounds or bounders
 5. subtitle
 6. wildwood
 7. crackpot
 8. massages
-9. underfed
+9. refunded or underfed
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
