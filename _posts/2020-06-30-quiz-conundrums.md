@@ -13,16 +13,19 @@ Find the single word by rearranging the letters shown (anagram).
 
 ![conundrums image]({{site.baseurl}}/assets/images/2020-07-06-EOOTC.png){:class="img-responsive"}
 
+<!-- markdownlint-disable -->
 <button class="answer-button">Show Answers</button>
 <div class="hide" markdown="1">
+<!-- markdownlint-restore -->
 1. hymnbook
 2. misheard
-3. ????
-4. ????
-5. ????
-6. ????
-7. ????
-8. ????
-9. ????
+3. ambushed
+4. bounders
+5. subtitle
+6. wildwood
+7. crackpot
+8. massages
+9. underfed
+<!-- markdownlint-disable -->
 </div>
-
+<!-- markdownlint-restore -->
