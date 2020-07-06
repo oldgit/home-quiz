@@ -12,7 +12,7 @@ permalink: /round-owners/
 | 3  | History           | ????    |
 | 4  | General Knowledge | ????    |
 | 5  | TV & Film         | Jim G   |
-| 6  | Sports            | ????    |
+| 6  | Sports            | Clive   |
 | 7  | Picture           | ????    |
 
 ## Quiz @20:45 Monday, 6 July, 2020
