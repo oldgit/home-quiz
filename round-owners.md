@@ -8,7 +8,7 @@ permalink: /round-owners/
 | \# | Round             | Owner   |
 |----|-------------------|---------|
 | 1  | Food & Drink      | Jon     |
-| 2  | Science & Nature  | James   |
+| 2  | Science & Nature  | ????    |
 | 3  | History           | ????    |
 | 4  | General Knowledge | Dave    |
 | 5  | TV & Film         | Jim G   |
