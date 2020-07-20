@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "July 20 Quiz Food & Drink Round"
+title:  "July 20 Quiz Food & Drink, Science Rounds"
 date:   2020-07-20 10:10:08 +0000
 tags:   oldgit
 published: true
@@ -37,7 +37,7 @@ published: true
  County Cork. (Paddy is also produced there...) (1 Point)
 
     ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paddy_Whiskey.jpg/176px-Paddy_Whiskey.jpg){:class="img-responsive"}
- 
+
 <!-- markdownlint-disable -->
 <button class="answer-button">Show Answers</button>
 <div class="hide" markdown="1">
@@ -50,3 +50,39 @@ published: true
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
+
+## Science (11 Points)
+
+<!-- markdownlint-disable -->
+1. What is H<sub>2</sub>SO<sub>4</sub>? One use is as an electrolyte in batteries. (1 Point) 
+<!-- markdownlint-restore -->
+1. What is the chemical formula for salt? (1 Point)
+1. Electrolysis of water decomposes water into oxygen and hydrogen gas.
+Is oxygen released at the anode(+ terminal) or cathode? (1 Point)
+1. Limescale is a hard chalky deposit mainly of what chemical compound? (1 Point)
+1. What is the chemical formula of the previous chemical compound? (1 Point)
+1. Who in an experiment in 1666 bent white light through a prism? (1 Point)
+
+    ![wikipedia image](https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png){:class="img-responsive"}
+
+1. The above picture is an album cover. Name the album and band. (2 Points)
+1. In classical mechanics, a famous physicist published in 1687 the laws of motion. (3 Points)
+   1. Who is the famous physicist?
+   1. How many laws of motion are there?
+   1. The second law of motion gives a succinct formula, what is it?
+
+<!-- markdownlint-disable -->
+<button class="answer-button">Show Answers</button>
+<div class="hide" markdown="1">
+<!-- markdownlint-restore -->
+1. sulphuric acid
+1. NaCl
+1. anode
+1. calcium carbonate
+<!-- markdownlint-disable -->
+1. CaCO<sub>3</sub>
+<!-- markdownlint-restore -->
+1. Isaac Newton
+1. The Dark Side of the Moon by Pink Floyd
+1. Isaac Newton, Three, `F = ma`
+</div>
