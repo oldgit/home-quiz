@@ -26,7 +26,7 @@ published: true
 
     ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cheese_Naan.jpg/800px-Cheese_Naan.jpg){:class="img-responsive"}
 
- 1. Abuses of a good champagne, name these cocktails: (3 Point)
+ 1. Abuses of a good champagne, name these cocktails: (3 Points)
     1. Two parts Champagne to one part orange juice
     1. Champagne and orange juice in equal measure
     1. Equal parts of stout(often Guinness) and Champagne
