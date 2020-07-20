@@ -2,6 +2,6 @@ Team,Food/Drink,Sport,Science/Nature,General Knowledge,History,TV/Film
 maxpoints,9,8,11,8,8,8
 Jon,-1,0,-1,0,0,0
 Dave,0,0,0,-1,0,0
-Ivan,0,0,0,0,0,0
+Ivan,0,0,0,0,-1,0
 Clive,0,-1,0,0,-1,0
 Jim,0,0,0,0,0,-1
