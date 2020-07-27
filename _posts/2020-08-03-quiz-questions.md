@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "August 3 Quiz Food & Drink Round"
-date:   2020-07-27 10:10:08 +0000
+date:   2020-08-03 10:10:08 +0000
 tags:   oldgit
 published: true
 ---
