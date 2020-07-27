@@ -3,7 +3,7 @@ layout: page
 title:  "Round-Owners"
 permalink: /round-owners/
 ---
-## Quiz @20:45 Monday, 27 July, 2020
+## Quiz @20:45 Monday, 03 August, 2020
 
 | \# | Round             | Owner   |
 |----|-------------------|---------|
@@ -12,7 +12,8 @@ permalink: /round-owners/
 | 3  | History           | ????    |
 | 4  | General Knowledge | ????    |
 | 5  | TV & Film         | Jim G   |
-| 6  | Sports            | ????    |
+| 6  | Sports            | Ivan    |
+| 7  | Picture           | ????    |
 
 ## Quiz @20:45 Monday, 20 July, 2020
 
@@ -24,6 +25,7 @@ permalink: /round-owners/
 | 4  | General Knowledge | Dave    |
 | 5  | TV & Film         | Jim G   |
 | 6  | Sports            | Clive   |
+| 7  | Picture           | Dave    |
 
 ## Quiz @20:45 Monday, 6 July, 2020
 
