@@ -9,10 +9,10 @@ permalink: /round-owners/
 |----|-------------------|---------|
 | 1  | Food & Drink      | Jon     |
 | 2  | Science & Nature  | James   |
-| 3  | History           | ????    |
+| 3  | History           | Dave    |
 | 4  | General Knowledge | Clive   |
 | 5  | TV & Film         | Jim G   |
-| 6  | Sports            | ????    |
+| 6  | Sports            | Ivan    |
 | 7  | Picture           | Dave    |
 
 ## Quiz @20:45 Monday, 03 August, 2020
