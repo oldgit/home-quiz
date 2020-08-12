@@ -3,6 +3,18 @@ layout: page
 title:  "Round-Owners"
 permalink: /round-owners/
 ---
+## Quiz @20:45 Monday, 17 August, 2020
+
+| \# | Round             | Owner   |
+|----|-------------------|---------|
+| 1  | Food & Drink      | Jon     |
+| 2  | Science & Nature  | James   |
+| 3  | History           | ????    |
+| 4  | General Knowledge | Clive   |
+| 5  | TV & Film         | Jim G   |
+| 6  | Sports            | ????    |
+| 7  | Picture           | Dave    |
+
 ## Quiz @20:45 Monday, 03 August, 2020
 
 | \# | Round             | Owner   |
