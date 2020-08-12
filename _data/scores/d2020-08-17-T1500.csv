@@ -1,0 +1,8 @@
+Team,Food/Drink,TV/Film,General Knowledge,History,Science/Nature,Sport,Picture
+maxpoints,10,10,10,10,10,10,20
+James,0,0,0,0,-1,0,0
+Jim,0,-1,0,0,0,0,0
+D&G,0,0,-1,0,0,0,-1
+Clive,0,0,0,-1,0,0,0
+Ivan,0,0,0,0,0,-1,0
+Jon,-1,0,0,0,0,0,0
