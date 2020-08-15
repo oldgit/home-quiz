@@ -6,7 +6,7 @@ tags:   oldgit
 published: true
 ---
 
-## Food & Drink (10 Points)
+## Food & Drink (12 Points)
 
  1. The red Michelin guide grades a restaurant's quality with stars.
  What's the highest amount of stars a restaurant can be awarded? (1 Point)
@@ -30,6 +30,7 @@ published: true
     ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TequilaFermentationVatMuseum.JPG/800px-TequilaFermentationVatMuseum.JPG){:class="img-responsive"}
 
  1. What is Tequila made from? (1 Point)
+ 1. In its home country Tequila is often served neat but what usually accompanies a shot here? (2 Points)
 
 <!-- markdownlint-disable -->
 <button class="answer-button">Show Answers</button>
@@ -50,6 +51,7 @@ published: true
 1. Mexico
 1. Blue agave or tequilla agave (agave tequilana)
    ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Agave_tequilana_1.jpg/1280px-Agave_tequilana_1.jpg){:class="img-responsive"}
+1. Salt and lime.
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
