@@ -8,29 +8,48 @@ published: true
 
 ## Food & Drink (10 Points)
 
- 1. What (1 Point)
+ 1. The red Michelin guide grades a restaurant's quality with stars.
+ What's the highest amount of stars a restaurant can be awarded? (1 Point)
 
-    ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/9/97/DEU_VW-Currywurst_klein_Pfanne_MSZ110102.jpg){:class="img-responsive"}
+    ![wikipedia image](https://upload.wikimedia.org/wikipedia/en/6/60/Michelin_nyc_2006.jpg){:class="img-responsive"}
 
- 1. What (1 Point)
+ 1. Name Heston Blumenthal's Michelin starred restaurant famed for "Molecular gastronomy" in Bray, Berkshire. (1 Point)
+ 1. In 2010, the Waterside Inn, also in Bray, became the first restaurant outside France
+ to have held the top Michelin stars rating for 25 years. Who's the chef?
+ Name his father, also a famous chef, who recently passed away in March, 2020, aged 78. (2 Points)
 
-    ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/d/dd/Pectin.jpg){:class="img-responsive"}
+    ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Waterside_Inn%2C_Bray%2C_Berkshire_%28Nancy%29.JPG/800px-Waterside_Inn%2C_Bray%2C_Berkshire_%28Nancy%29.JPG){:class="img-responsive"}
 
- 1. What (1 Point)
- 1. What (1 Point)
- 1. What (1 Point)
+ 1. How many restaurants in Brighton have at least one Michelin star? (1 Point)
+ 1. Describe what these Japanese dishes are: (3 Points)
+    1. Tempura (天ぷら or 天麩羅)
+    1. Sashimi (刺身)
+    1. Sushi (すし, 寿司, 鮨)
+ 1. What country does Tequila come from? (1 Point)
 
-    ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/7/72/Whisky_tasting_glass.jpg){:class="img-responsive"}
+    ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TequilaFermentationVatMuseum.JPG/800px-TequilaFermentationVatMuseum.JPG){:class="img-responsive"}
+
+ 1. What is Tequila made from? (1 Point)
 
 <!-- markdownlint-disable -->
 <button class="answer-button">Show Answers</button>
 <div class="hide" markdown="1">
 <!-- markdownlint-restore -->
-1. A
-1. B
-1. C
-1. D
-1. E
+1. Three stars. According to the Guide, one star signifies "a very good restaurant",
+   two stars are "excellent cooking that is worth a detour", and three stars mean
+   "exceptional cuisine that is worth a special journey".
+1. The Fat Duck
+1. Alain Roux. Michel Roux.
+1. None
+1. Japanese dishes:
+   1. Seafood, meat, and vegetables that have been battered and deep fried.
+   1. Fresh raw fish or meat sliced into thin pieces and often eaten with soy sauce.
+   1. Prepared vinegared rice (鮨飯, sushi-meshi), usually with some sugar and salt,
+   accompanying a variety of ingredients (ネタ, neta), such as seafood, often raw,
+   vegetables, and occasionally tropical fruits.
+1. Mexico
+1. Blue agave or tequilla agave (agave tequilana)
+   ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Agave_tequilana_1.jpg/1280px-Agave_tequilana_1.jpg){:class="img-responsive"}
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
