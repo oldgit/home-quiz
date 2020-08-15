@@ -42,9 +42,9 @@ published: true
 1. Alain Roux. Michel Roux.
 1. None
 1. Japanese dishes:
-   1. Seafood, meat, and vegetables that have been battered and deep fried.
-   1. Fresh raw fish or meat sliced into thin pieces and often eaten with soy sauce.
-   1. Prepared vinegared rice (鮨飯, sushi-meshi), usually with some sugar and salt,
+   1. Tempura - Seafood, meat, and vegetables that have been battered and deep fried.
+   1. Sashimi - Fresh raw fish or meat sliced into thin pieces and often eaten with soy sauce.
+   1. Sushi - Prepared vinegared rice (鮨飯, sushi-meshi), usually with some sugar and salt,
    accompanying a variety of ingredients (ネタ, neta), such as seafood, often raw,
    vegetables, and occasionally tropical fruits.
 1. Mexico
