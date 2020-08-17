@@ -107,3 +107,4 @@ dist
 _site/
 .sass-cache/
 
+.shadow-cljs/
