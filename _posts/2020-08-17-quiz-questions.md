@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "August 17 Quiz Food & Drink Round"
+title:  "August 17 Quiz Food & Drink, Science Rounds"
 date:   2020-08-17 10:10:08 +0000
 tags:   oldgit
 published: true
@@ -52,6 +52,35 @@ published: true
 1. Blue agave or tequilla agave (agave tequilana)
    ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Agave_tequilana_1.jpg/1280px-Agave_tequilana_1.jpg){:class="img-responsive"}
 1. Salt and lime.
+<!-- markdownlint-disable -->
+</div>
+<!-- markdownlint-restore -->
+
+## Science & Nature (10 Points)
+
+1. What is the most abundant gas in the Earth’s atmosphere? (1 Point)
+1. Which two planets lack moons? (2 Points)
+1. What is the biggest planet in our solar system? (1 Point)
+1. What name is given for the number of protons found in the nucleus of an atom? (1 Point)
+1. Which Apollo moon mission was the first to carry a lunar rover? (1 Point)
+1. Humans and chimpanzees share roughly how much DNA? (1 Point)
+1. How many hearts do octopuses have? (1 Point)
+1. What is the study of mushrooms called? (1 Point)
+1. What is the SI derived unit of electric charge? (1 Point)
+
+<!-- markdownlint-disable -->
+<button class="answer-button">Show Answers</button>
+<div class="hide" markdown="1">
+<!-- markdownlint-restore -->
+1. Nitrogen
+1. Mercury and Venus
+1. Jupiter
+1. Atomic number
+1. Apollo 15
+1. 98%
+1. Three
+1. Mycology
+1. Coulomb
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
