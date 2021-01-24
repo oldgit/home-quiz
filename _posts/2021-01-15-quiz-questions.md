@@ -23,7 +23,7 @@ published: true
 
    ![guardian image](https://i.guim.co.uk/img/media/fc05d868ac03800201c37728e9e1f983057057c4/0_0_2560_1536/master/2560.jpg?width=700&quality=85&auto=format&fit=max&s=e39c0872e11af5997814cf0856313532){:class="img-responsive"}
 
- 1. Which tech billionaire announced in April that he was giving $1bn (around a quarter of his wealth) 
+ 1. Which tech billionaire announced in April that he was giving $1bn (around a quarter of his wealth)
     to help fight the pandemic? (1 Point)
  1. The roll out of a Russian-developed Covid vaccine began in December. What is the vaccine called? (1 Point)
  1. Which European country in March became the first in the world to make public transport free? (1 Point)
