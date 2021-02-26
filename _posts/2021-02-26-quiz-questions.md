@@ -16,67 +16,6 @@ published: true
  1. The Good Guys
  1. Vehicles 
 
-## Eon Films - M's Redacted List
-
- 1. M-. M- (1962)
- 2. M--- M----- ---- M--- (1963)
- 3. M--------- (1964)
- 4. M---------- (1965)
- 5. M-- M--- M--- M---- (1967)
- 6. M- M-- M------'- M----- M------ (1969)
- 7. M------- M-- M------ (1971)
- 8. M--- --- M-- M-- (1973)
- 9. M-- M-- ---- --- M----- M-- (1974)
- 10. M-- M-- M-- M---- M- (1977)
- 11. M-------- (1979)
- 12. M-- M--- M--- M--- (1981)
- 13. M-------- (1983)
- 14. M M--- -- - M--- (1985)
- 15. M-- M----- M-------- (1987)
- 16. M------ -- M--- (1989)
- 17. M-----M-- (1995)
- 18. M------- M---- M--- (1997)
- 19. M-- M---- M- M-- M----- (1999)
- 20. M-- M------ M-- (2002)
- 21. M----- M----- (2006)
- 22. M------ -- M----- (2008)
- 23. M------ (2012)
- 24. M------ (2015)
- 25. M- M--- -- M-- (2021)
-
-<!-- markdownlint-disable -->
-<button class="answer-button">Show Titles</button>
-<div class="hide" markdown="1">
-<!-- markdownlint-restore -->
- 1. Dr. No (1962)
- 2. From Russia with Love (1963)
- 3. Goldfinger (1964)
- 4. Thunderball (1965)
- 5. You Only Live Twice (1967)
- 6. On Her Majesty's Secret Service (1969)
- 7. Diamonds Are Forever (1971)
- 8. Live and Let Die (1973)
- 9. The Man with the Golden Gun (1974)
- 10. The Spy Who Loved Me (1977)
- 11. Moonraker (1979)
- 12. For Your Eyes Only (1981)
- 13. Octopussy (1983)
- 14. A View to a Kill (1985)
- 15. The Living Daylights (1987)
- 16. Licence to Kill (1989)
- 17. GoldenEye (1995)
- 18. Tomorrow Never Dies (1997)
- 19. The World Is Not Enough (1999)
- 20. Die Another Day (2002)
- 21. Casino Royale (2006)
- 22. Quantum of Solace (2008)
- 23. Skyfall (2012)
- 24. Spectre (2015)
- 25. No Time to Die (2021)
-<!-- markdownlint-disable -->
-</div>
-<!-- markdownlint-restore -->
-
 ## For Your Eyes Only - Posters (10 Points)
 
 Name the film title and the actor who played Bond:
@@ -256,6 +195,67 @@ Name the character and a bonus for the actor's name:
 1. Lotus Esprit known as "Wet Nellie"
 1. Bentley R Type Continental
 1. Aston Martin DB10
+<!-- markdownlint-disable -->
+</div>
+<!-- markdownlint-restore -->
+
+## Eon Films - M's Redacted List
+
+ 1. M-. M- (1962)
+ 2. M--- M----- ---- M--- (1963)
+ 3. M--------- (1964)
+ 4. M---------- (1965)
+ 5. M-- M--- M--- M---- (1967)
+ 6. M- M-- M------'- M----- M------ (1969)
+ 7. M------- M-- M------ (1971)
+ 8. M--- --- M-- M-- (1973)
+ 9. M-- M-- ---- --- M----- M-- (1974)
+ 10. M-- M-- M-- M---- M- (1977)
+ 11. M-------- (1979)
+ 12. M-- M--- M--- M--- (1981)
+ 13. M-------- (1983)
+ 14. M M--- -- - M--- (1985)
+ 15. M-- M----- M-------- (1987)
+ 16. M------ -- M--- (1989)
+ 17. M-----M-- (1995)
+ 18. M------- M---- M--- (1997)
+ 19. M-- M---- M- M-- M----- (1999)
+ 20. M-- M------ M-- (2002)
+ 21. M----- M----- (2006)
+ 22. M------ -- M----- (2008)
+ 23. M------ (2012)
+ 24. M------ (2015)
+ 25. M- M--- -- M-- (2021)
+
+<!-- markdownlint-disable -->
+<button class="answer-button">Show Titles</button>
+<div class="hide" markdown="1">
+<!-- markdownlint-restore -->
+ 1. Dr. No (1962)
+ 2. From Russia with Love (1963)
+ 3. Goldfinger (1964)
+ 4. Thunderball (1965)
+ 5. You Only Live Twice (1967)
+ 6. On Her Majesty's Secret Service (1969)
+ 7. Diamonds Are Forever (1971)
+ 8. Live and Let Die (1973)
+ 9. The Man with the Golden Gun (1974)
+ 10. The Spy Who Loved Me (1977)
+ 11. Moonraker (1979)
+ 12. For Your Eyes Only (1981)
+ 13. Octopussy (1983)
+ 14. A View to a Kill (1985)
+ 15. The Living Daylights (1987)
+ 16. Licence to Kill (1989)
+ 17. GoldenEye (1995)
+ 18. Tomorrow Never Dies (1997)
+ 19. The World Is Not Enough (1999)
+ 20. Die Another Day (2002)
+ 21. Casino Royale (2006)
+ 22. Quantum of Solace (2008)
+ 23. Skyfall (2012)
+ 24. Spectre (2015)
+ 25. No Time to Die (2021)
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
