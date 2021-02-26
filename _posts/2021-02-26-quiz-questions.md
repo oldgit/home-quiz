@@ -125,7 +125,7 @@ Name the actress, bonus point for the character's name:
 
 1. M-- M------ M-- (2002) (2 Points)
 
-    ![femme2 image]({{site.baseurl}}/assets/images/halle-berry.jpg){:class="img-responsive"}
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BMTkxNDY0MzU0MV5BMl5BanBnXkFtZTYwNjc4MTg2._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
 
 1. M--- --- M-- M-- (1973) (2 Points) 
 
@@ -154,6 +154,7 @@ Name the actress, bonus point for the character's name:
 
 ## The Bad Guys (6 Points)
 
+Name the villains and a bonus for the act
 1. In 1790, the US states of Virginia and Maryland both ceded land to allow the creation of which
    new legal entity? (1 Point)
 1. What are the only two US states that have double vowels (the same vowel consecutively) in their names?
