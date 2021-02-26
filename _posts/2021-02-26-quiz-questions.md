@@ -20,23 +20,23 @@ published: true
 
 Name the film title and the actor who played Bond:
 
- 1. M-. M- (1962) (2 Point)
+ 1. Dr. xx (1962) (2 Point)
 
     ![poster1 image]({{site.baseurl}}/assets/images/Dr._No_-_UK_cinema_poster.jpg){:class="img-responsive"}
 
- 1. M- M-- M------'- M----- M------ (1969) (2 Points)
+ 1. On xxx xxxxxxx'x xxxxxx xxxxxxx (1969) (2 Points)
 
     ![poster2 image]({{site.baseurl}}/assets/images/On_Her_Majesty's_Secret_Service_-_UK_cinema_poster.jpg){:class="img-responsive"}
 
- 1. M--- --- M-- M-- (1973) (2 Points)
+ 1. Live xxx xxx xxx (1973) (2 Points)
 
     ![poster3 image]({{site.baseurl}}/assets/images/Live_and_Let_Die-_UK_cinema_poster.jpg){:class="img-responsive"}
 
- 1. M-----M-- (1995) (2 Points)
+ 1. Goxxxxxxx (1995) (2 Points)
 
     ![poster4 image]({{site.baseurl}}/assets/images/GoldenEye_-_UK_cinema_poster.jpg){:class="img-responsive"}
 
- 1. M- M--- -- M-- (2021) (2 Points)
+ 1. No xxxx xx xxx (2021) (2 Points)
 
     ![poster5 image]({{site.baseurl}}/assets/images/No_Time_to_Die_poster.jpg){:class="img-responsive"}
 
@@ -57,23 +57,23 @@ Name the film title and the actor who played Bond:
 
 Name the actress, bonus point for the character's name:
 
-1. M-. M- (1962) (2 Points)
+1. Dr. No (1962) (2 Points)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BOGE4NWZmZDctYWJmYi00MjU1LTgwMzItNGRiNTg3Y2Y2NTI4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY99_CR12,0,200,200.jpghttps://m.media-amazon.com/images/M/MV5BOGE4NWZmZDctYWJmYi00MjU1LTgwMzItNGRiNTg3Y2Y2NTI4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY99_CR12,0,99,99_AL_.jpg){:class="img-responsive"}
 
-1. M-- M------ M-- (2002) (2 Points)
+1. Die Another Day (2002) (2 Points)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BMTkxNDY0MzU0MV5BMl5BanBnXkFtZTYwNjc4MTg2._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
 
-1. M--- --- M-- M-- (1973) (2 Points) 
+1. Live and Let Die (1973) (2 Points) 
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BYjhjZTcxM2QtZjAzNy00NWRkLWE3ZWMtMDIxMjA1YTczYjlkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
 
-1. M M--- -- - M--- (1985) (2 Points)
+1. A View to a Kill (1985) (2 Points)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BNjczMmJlNWQtMmJjYi00ZmVkLWIwOWEtZmM2MjExOTk1MjgxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX99_CR0,0,99,99_AL_.jpg){:class="img-responsive"}
 
-1. M----- M----- (2006) (2 Points)
+1. Casino Royale (2006) (2 Points)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BNDI1NjUyOTY4M15BMl5BanBnXkFtZTcwOTY2MTUyNA@@._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
 
@@ -94,23 +94,23 @@ Name the actress, bonus point for the character's name:
 
 Name the villain and a bonus for the actor's name:
 
-1. M-. M- (1962)
+1. Dr. xx (1962)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BMTY1NDYwMzk1M15BMl5BanBnXkFtZTcwODY0MjY2Nw@@._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
 
-1. M--------- (1964)
+1. Gxxxxxxxxx (1964)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BMTk2MzM0Mjc3M15BMl5BanBnXkFtZTcwNjMxNTgzNA@@._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
 
-1. M-- M--- M--- M---- (1967)
+1. You Only Live Twice (1967)
 
     ![wikipedia image](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Blofeldpleasance67.jpg/220px-Blofeldpleasance67.jpg){:class="img-responsive"}
 
-1. M------- M-- M------ (1971)
+1. Diamonds are Forever (1971)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BZGZhMDk3ODctNDU3ZC00YjA3LTljOWUtMjYyNGJkNzZhZjcyXkEyXkFqcGdeQXVyNjcwNDUyODM@._V1_UY100_CR39,0,100,100_AL_.jpg){:class="img-responsive"}
 
-1. M----- M----- (2006)
+1. Casino Royale (2006)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BMTQ1NjA5OTkwNF5BMl5BanBnXkFtZTcwNjY2MTUyNA@@._V1_UY100_CR25,0,100,100_AL_.jpg){:class="img-responsive"}
 
@@ -131,23 +131,23 @@ Name the villain and a bonus for the actor's name:
 
 Name the character and a bonus for the actor's name:
 
-1. M----- M----- (2006)
+1. Casino Royale (2006)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BMjM2NzQ0NjYyMV5BMl5BanBnXkFtZTgwNjY1NDg0MzI@._V1_UY100_CR70,0,100,100_AL_.jpg){:class="img-responsive"}
 
-1. M--------- (1964)
+1. Goldfinger (1964)
 
     ![wikipedia image](https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Actor_Bernard_Lee.jpg/220px-Actor_Bernard_Lee.jpg){:class="img-responsive"}
 
-1. M— M—– —- M— (1963)
+1. From Russia with Love (1963)
 
     ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Desmond_Llewelyn_01.jpg/220px-Desmond_Llewelyn_01.jpg){:class="img-responsive"}
 
-1. M— M—– —- M— (1963)
+1. From Russia with Love (1963)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BOWRjY2I4MTUtNDQyYy00Y2MxLTlmYjItMzIxOWU4ZWNlZjhjXkEyXkFqcGdeQXVyNjcwNDUyODM@._V1_UY100_CR39,0,100,100_AL_.jpg){:class="img-responsive"}
 
-1. M----- M----- (2006)
+1. Casino Royale (2006)
 
     ![imdb image](https://m.media-amazon.com/images/M/MV5BMTUxNDA1ODQ4NV5BMl5BanBnXkFtZTYwODg5OTE3._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
 
@@ -199,33 +199,33 @@ Name the character and a bonus for the actor's name:
 </div>
 <!-- markdownlint-restore -->
 
-## Eon Films - M's Redacted List
+## M's Redacted Eon Film List Bonus Round (25 Points)
 
- 1. M-. M- (1962)
- 2. M--- M----- ---- M--- (1963)
- 3. M--------- (1964)
- 4. M---------- (1965)
- 5. M-- M--- M--- M---- (1967)
- 6. M- M-- M------'- M----- M------ (1969)
- 7. M------- M-- M------ (1971)
- 8. M--- --- M-- M-- (1973)
- 9. M-- M-- ---- --- M----- M-- (1974)
- 10. M-- M-- M-- M---- M- (1977)
- 11. M-------- (1979)
- 12. M-- M--- M--- M--- (1981)
- 13. M-------- (1983)
- 14. M M--- -- - M--- (1985)
- 15. M-- M----- M-------- (1987)
- 16. M------ -- M--- (1989)
- 17. M-----M-- (1995)
- 18. M------- M---- M--- (1997)
- 19. M-- M---- M- M-- M----- (1999)
- 20. M-- M------ M-- (2002)
- 21. M----- M----- (2006)
- 22. M------ -- M----- (2008)
- 23. M------ (2012)
- 24. M------ (2015)
- 25. M- M--- -- M-- (2021)
+ 1. Mx. Mx (1962)
+ 2. Mxxx Mxxxxx xxxx Mxxx (1963)
+ 3. Mxxxxxxxxx (1964)
+ 4. Mxxxxxxxxxx (1965)
+ 5. Mxx Mxxx Mxxx Mxxxx (1967)
+ 6. Mx Mxx Mxxxxxx'x Mxxxxx Mxxxxxx (1969)
+ 7. Mxxxxxxx Mxx Mxxxxxx (1971)
+ 8. Mxxx xxx Mxx Mxx (1973)
+ 9. Mxx Mxx xxxx xxx Mxxxxx Mxx (1974)
+ 10. Mxx Mxx Mxx Mxxxx Mx (1977)
+ 11. Mxxxxxxxx (1979)
+ 12. Mxx Mxxx Mxxx Mxxx (1981)
+ 13. Mxxxxxxxx (1983)
+ 14. M Mxxx xx x Mxxx (1985)
+ 15. Mxx Mxxxxx Mxxxxxxxx (1987)
+ 16. Mxxxxxx xx Mxxx (1989)
+ 17. MxxxxxMxx (1995)
+ 18. Mxxxxxxx Mxxxx Mxxx (1997)
+ 19. Mxx Mxxxx Mx Mxx Mxxxxx (1999)
+ 20. Mxx Mxxxxxx Mxx (2002)
+ 21. Mxxxxx Mxxxxx (2006)
+ 22. Mxxxxxx xx Mxxxxx (2008)
+ 23. Mxxxxxx (2012)
+ 24. Mxxxxxx (2015)
+ 25. Mx Mxxx xx Mxx (2021)
 
 <!-- markdownlint-disable -->
 <button class="answer-button">Show Titles</button>
