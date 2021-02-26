@@ -8,14 +8,13 @@ published: true
 
 ## Rounds
 
- 6 rounds (38 Points) with 5 questions per round:
+ 5 rounds (45 Points) with 5 questions per round:
 
  1. For Your Eyes Only - Posters
  1. The Femmes Fatale
  1. The Bad Guys
  1. The Good Guys
  1. Vehicles 
- 1. Music
 
 ## Eon Films - M's Redacted List
 
@@ -221,51 +220,42 @@ Name the character and a bonus for the actor's name:
 1. Goldfinger, M, Bernard Lee
 1. From Russia with Love, Q, Desmond Llewelyn 
 1. From Russia with Love, Miss MoneyPenny, Lois Maxwell
-1. Casino Royale, Felix Leiterm Jeffrey Wright
+1. Casino Royale, Felix Leiter, Jeffrey Wright
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
 
-## Vehicles (6 Points)
+## Vehicles (5 Points)
 
-1. What is the name of the family that adopted Paddington Bear?
-   For a bonus, name their housekeeper. (2 Points)
-1. Which novel has a character called Major Major Major Major? (1 Point)
-1. In which novel would you find Humbert Humbert? (1 Point)
-1. What is Dracula author Bram Stoker's first name short for? (1 Point)
-1. In 1911, Pablo Picasso was arrested by the French police in connection with which dastardly crime
-   in Paris? (1 Point)
+1. What does Bond name this autogyro used in the film: "You Only Live Twice"?
+
+    ![wiki image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Little_Nellie.jpg/600px-Little_Nellie.jpg){:class="img-responsive"}
+
+1. What make, model of car is this which debuted in Goldfinger, and also appears in Thunderball, GoldenEye, Tomorrow Never Dies, Skyfall and Spectre?
+
+    ![wiki image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/DB5-2.jpg/220px-DB5-2.jpg){:class="img-responsive"}
+
+1. What make, model of car is this from "The Spy Who Loved Me" which has a submarine mode?
+
+    ![wiki image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lotus_Esprit_%28The_Spy_Who_Loved_Me%29_rear-left_National_Motor_Museum%2C_Beaulieu.jpg/330px-Lotus_Esprit_%28The_Spy_Who_Loved_Me%29_rear-left_National_Motor_Museum%2C_Beaulieu.jpg){:class="img-responsive"}
+
+1. This classic British car (make, model) was featured in the novel Thunderball.
+
+    ![wiki image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/1953_Bentley_R-Type_standard_steel_saloon.jpg/280px-1953_Bentley_R-Type_standard_steel_saloon.jpg){:class="img-responsive"}
+
+1. What make, model of car is this which was specially developed for Spectre?
+
+    ![wiki image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Aston_Martin_DB10_2015.jpg/420px-Aston_Martin_DB10_2015.jpg){:class="img-responsive"}
 
 <!-- markdownlint-disable -->
 <button class="answer-button">Show Answers</button>
 <div class="hide" markdown="1">
 <!-- markdownlint-restore -->
-1. The Browns; Mrs Bird
-1. Catch-22 by Joseph Heller
-1. Lolita by Vladimir Nabokov
-1. Abraham
-1. The theft of the Mona Lisa
-<!-- markdownlint-disable -->
-</div>
-<!-- markdownlint-restore -->
-
-## Music (6 Points)
-
-1. What food flavouring is derived from the crocus plant? (1 Point)
-1. Which two elements alloy to form brass? (2 Points)
-1. What chemical element was formerly known as Brimstone? (1 Point)
-1. Which animal's scientific name means: "A camel marked like a leopard who walks swiftly"? (1 Point)
-1. Bruxism is the medical term for what unconscious habit? (1 Point)
-
-<!-- markdownlint-disable -->
-<button class="answer-button">Show Answers</button>
-<div class="hide" markdown="1">
-<!-- markdownlint-restore -->
-1. Saffron
-1. Copper and Zinc
-1. Sulphur
-1. Giraffe
-1. Grinding teeth
+1. Little Nellie 
+1. Aston Martin DB5
+1. Lotus Esprit known as "Wet Nellie"
+1. Bentley R Type Continental
+1. Aston Martin DB10
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
