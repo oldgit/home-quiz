@@ -166,7 +166,7 @@ Name the villains and a bonus for the actor's name:
 
 1. M-- M--- M--- M---- (1967)
 
-    ![wikipedia image](https://en.wikipedia.org/wiki/File:Blofeldpleasance67.jpg){:class="img-responsive"}
+    ![wikipedia image](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Blofeldpleasance67.jpg/220px-Blofeldpleasance67.jpg){:class="img-responsive"}
 
 1. M------- M-- M------ (1971)
 
