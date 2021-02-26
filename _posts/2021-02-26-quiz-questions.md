@@ -115,7 +115,7 @@ Name the film title and the actor who played Bond:
 </div>
 <!-- markdownlint-restore -->
 
-## The Femmes Fatale (5 Points)
+## The Femmes Fatale (10 Points)
 
 Name the actress, bonus point for the character's name:
 
@@ -152,9 +152,9 @@ Name the actress, bonus point for the character's name:
 </div>
 <!-- markdownlint-restore -->
 
-## The Bad Guys (6 Points)
+## The Bad Guys (10 Points)
 
-Name the villains and a bonus for the actor's name:
+Name the villain and a bonus for the actor's name:
 
 1. M-. M- (1962)
 
@@ -189,29 +189,39 @@ Name the villains and a bonus for the actor's name:
 </div>
 <!-- markdownlint-restore -->
 
-## The Good Guys (9 Points)
+## The Good Guys (10 Points)
 
-Name the villains and a bonus for the actor's name:
+Name the character and a bonus for the actor's name:
 
-1. In which 1960s cartoon series did Penelope Pitstop appear, along with the likes of Dastardly and Muttley?
-   (1 Point)
-1. Robert Downey Jr starred as Dr Dolittle in a widely panned new film based on Hugh Lofting's books.
-   Which two actors had played the doctor in the 1967 and 1998 adaptations? (2 Points)
-1. Name the characters played by Bruce Willis and Alan Rickman in the 1988 box office smash "Die Hard".
-   For another point, name the skyscraper in which they do battle. (3 Points)
-1. Which two characters feature in all of the Skywalker Saga Star Wars films? (2 Points)
-1. "Metropolis", made in Germany in 1927, is regarded as one of the most influential films of early cinema.
-   Who directed it? (1 Point)
+1. M----- M----- (2006)
+
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BMjM2NzQ0NjYyMV5BMl5BanBnXkFtZTgwNjY1NDg0MzI@._V1_UY100_CR70,0,100,100_AL_.jpg){:class="img-responsive"}
+
+1. M--------- (1964)
+
+    ![wikipedia image](https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Actor_Bernard_Lee.jpg/220px-Actor_Bernard_Lee.jpg){:class="img-responsive"}
+
+1. M— M—– —- M— (1963)
+
+    ![wikipedia image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Desmond_Llewelyn_01.jpg/220px-Desmond_Llewelyn_01.jpg){:class="img-responsive"}
+
+1. M— M—– —- M— (1963)
+
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BOWRjY2I4MTUtNDQyYy00Y2MxLTlmYjItMzIxOWU4ZWNlZjhjXkEyXkFqcGdeQXVyNjcwNDUyODM@._V1_UY100_CR39,0,100,100_AL_.jpg){:class="img-responsive"}
+
+1. M----- M----- (2006)
+
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BMTUxNDA1ODQ4NV5BMl5BanBnXkFtZTYwODg5OTE3._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
 
 <!-- markdownlint-disable -->
 <button class="answer-button">Show Answers</button>
 <div class="hide" markdown="1">
 <!-- markdownlint-restore -->
-1. Wacky Races
-1. Rex Harrison and Eddie Murphy
-1. John McClane and Hans Gruber; Nakatomi Plaza
-1. R2-D2 and C-3PO
-1. Fritz Lang
+1. Casino Royale, M, Judi Dench
+1. Goldfinger, M, Bernard Lee
+1. From Russia with Love, Q, Desmond Llewelyn 
+1. From Russia with Love, Miss MoneyPenny, Lois Maxwell
+1. Casino Royale, Felix Leiterm Jeffrey Wright
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
