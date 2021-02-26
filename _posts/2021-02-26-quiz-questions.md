@@ -154,29 +154,44 @@ Name the actress, bonus point for the character's name:
 
 ## The Bad Guys (6 Points)
 
-Name the villains and a bonus for the act
-1. In 1790, the US states of Virginia and Maryland both ceded land to allow the creation of which
-   new legal entity? (1 Point)
-1. What are the only two US states that have double vowels (the same vowel consecutively) in their names?
-   (2 Points)
-1. Which African country is the largest by area? (1 Point)
-1. Which African country is the most populous? (1 Point)
-1. To which country would you have to travel to see lemurs in the wild? (1 Point)
+Name the villains and a bonus for the actor's name:
+
+1. M-. M- (1962)
+
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BMTY1NDYwMzk1M15BMl5BanBnXkFtZTcwODY0MjY2Nw@@._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
+
+1. M--------- (1964)
+
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BMTk2MzM0Mjc3M15BMl5BanBnXkFtZTcwNjMxNTgzNA@@._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
+
+1. M-- M--- M--- M---- (1967)
+
+    ![wikipedia image](https://en.wikipedia.org/wiki/File:Blofeldpleasance67.jpg){:class="img-responsive"}
+
+1. M------- M-- M------ (1971)
+
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BZGZhMDk3ODctNDU3ZC00YjA3LTljOWUtMjYyNGJkNzZhZjcyXkEyXkFqcGdeQXVyNjcwNDUyODM@._V1_UY100_CR39,0,100,100_AL_.jpg){:class="img-responsive"}
+
+1. M----- M----- (2006)
+
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BMTQ1NjA5OTkwNF5BMl5BanBnXkFtZTcwNjY2MTUyNA@@._V1_UY100_CR25,0,100,100_AL_.jpg){:class="img-responsive"}
 
 <!-- markdownlint-disable -->
 <button class="answer-button">Show Answers</button>
 <div class="hide" markdown="1">
 <!-- markdownlint-restore -->
-1. Washington DC
-1. Hawaii and Tennessee
-1. Algeria
-1. Nigeria
-1. Madagascar
+1. Dr. No, Joseph Wiseman
+1. Goldfinger, Gert Frobe
+1. You Only Live Twice, Ernst Stavro Blofeld, Donald Pleasance
+1. Diamonds are Forever, Ernst Stavro Blofeld, Charles Gray
+1. Casino Royale, Le Chiffre, Mads Mikkelsen 
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
 
 ## The Good Guys (9 Points)
+
+Name the villains and a bonus for the actor's name:
 
 1. In which 1960s cartoon series did Penelope Pitstop appear, along with the likes of Dastardly and Muttley?
    (1 Point)
