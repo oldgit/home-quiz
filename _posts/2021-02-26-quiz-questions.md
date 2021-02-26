@@ -117,22 +117,37 @@ Name the film title and the actor who played Bond:
 
 ## The Femmes Fatale (5 Points)
 
-1. Who spent 21 years as the only inmate of Spandau Prison, until his death in 1987, aged 93? (1 Point)
-1. Which family won five Nobel Prizes over two generations? (1 Point)
-1. In the 14th century, ships arriving from plague-infected ports had to sit at anchor for 40 days
-   before landing. What English word describes this practice? (1 Point)
-1. Which British leader was exhumed and "executed", two years after his death? (1 Point)
-1. From which European country did Angola achieve independence in 1975? (1 Point)
+Name the actress, bonus point for the character's name:
+
+1. M-. M- (1962) (2 Points)
+
+    ![wikipedia image](https://en.wikipedia.org/wiki/File:Ursula_Andress_in_Dr._No.jpg){:class="img-responsive"}
+
+1. M-- M------ M-- (2002) (2 Points)
+
+    ![femme2 image]({{site.baseurl}}/assets/images/halle-berry.jpg){:class="img-responsive"}
+
+1. M--- --- M-- M-- (1973) (2 Points) 
+
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BYjhjZTcxM2QtZjAzNy00NWRkLWE3ZWMtMDIxMjA1YTczYjlkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
+
+1. M M--- -- - M--- (1985) (2 Points)
+
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BNjczMmJlNWQtMmJjYi00ZmVkLWIwOWEtZmM2MjExOTk1MjgxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX99_CR0,0,99,99_AL_.jpg){:class="img-responsive"}
+
+1. M----- M----- (2006) (2 Points)
+
+    ![imdb image](https://m.media-amazon.com/images/M/MV5BNDI1NjUyOTY4M15BMl5BanBnXkFtZTcwOTY2MTUyNA@@._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
 
 <!-- markdownlint-disable -->
 <button class="answer-button">Show Answers</button>
 <div class="hide" markdown="1">
 <!-- markdownlint-restore -->
-1. Rudolf Hess (leading member of the Nazi Party)
-1. The Curies
-1. Quarantine
-1. Oliver Cromwell
-1. Portugal
+1. Ursula Andress, Honey Ryder, Dr. No
+1. Halle Berry, Jinx Johnson, Die Another Day 
+1. Jane Seymour, Solitaire, Live and Let Die
+1. Grace Jones, May Day, A View to a Kill  
+1. Eva Green, Vesper Lynd, Casino Royale
 <!-- markdownlint-disable -->
 </div>
 <!-- markdownlint-restore -->
