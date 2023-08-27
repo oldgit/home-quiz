@@ -137,7 +137,7 @@ Name the character and a bonus for the actor's name:
 
 1. Goldfinger (1964)
 
-    ![Fandom wiki](https://static.wikia.nocookie.net/jamesbond/images/5/5b/M_%28Goldfinger%29_-_Profile.png/revision/latest?cb=20210419124433){:class="img-responsive"}
+    ![Fandom wiki](https://m.media-amazon.com/images/M/MV5BMzU2YWVkNGYtMGFlOS00MDQ2LTg5ZmMtNDU5NThmOWE4NjRhXkEyXkFqcGdeQXVyNjcwNDUyODM@._V1_SY200_CR78,0,200,200_AL_.jpg){:class="img-responsive"}
 
 1. From Russia with Love (1963)
 
