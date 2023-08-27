@@ -63,7 +63,7 @@ Name the actress, bonus point for the character's name:
 
 1. Die Another Day (2002) (2 Points)
 
-    ![imdb image](https://m.media-amazon.com/images/M/MV5BMTkxNDY0MzU0MV5BMl5BanBnXkFtZTYwNjc4MTg2._V1_UX100_CR0,0,100,100_AL_.jpg){:class="img-responsive"}
+    ![wikimedia image](https://upload.wikimedia.org/wikipedia/en/b/b5/Jinx_Profile.jpg){:class="img-responsive"}
 
 1. Live and Let Die (1973) (2 Points) 
 
@@ -137,7 +137,7 @@ Name the character and a bonus for the actor's name:
 
 1. Goldfinger (1964)
 
-    ![wikipedia image](https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Actor_Bernard_Lee.jpg/220px-Actor_Bernard_Lee.jpg){:class="img-responsive"}
+    ![Fandom wiki](https://static.wikia.nocookie.net/jamesbond/images/5/5b/M_%28Goldfinger%29_-_Profile.png/revision/latest?cb=20210419124433){:class="img-responsive"}
 
 1. From Russia with Love (1963)
 
